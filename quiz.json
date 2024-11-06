@@ -1,0 +1,20 @@
+{
+  "shortDescription": "Guess my age with this fun quiz!",
+  "questions": [
+    {
+      "question": "What age group am I in?",
+      "answers": ["20s early", "20s mid", "20s late"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "How old am I?",
+      "answers": ["20s early", "20s mid", "20s late"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "In which age range do I belong?",
+      "answers": ["20s early", "20s mid", "20s late"],
+      "correctAnswerIndex": 1
+    }
+  ]
+}
